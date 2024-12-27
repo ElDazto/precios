@@ -1,0 +1,84 @@
+{
+    "buttons": [
+        {
+            "label": "Passage",
+            "text": "/r Passage Belladone \u2022Torke \u2022Meno \u2022Dantinea \u2022Missiz \u2022Bethel \u2022Dazak \u2022Solar \u2022RDV \u2022Servitude Dispo [GOATs]",
+            "type": "offer"
+        },
+        {
+            "label": "Passage solo",
+            "text": "/r Passage Solar \u2022Roi Imagami \u2022Missiz \u2022Meno \u2022Dantinea Dispo [GOATs]",
+            "type": "offer"
+        },
+        {
+            "label": "Belladona",
+            "text": "3m simple (2 clients) 4m (solo) -\n5m compa -\n6m main propre -\n7m compa+main propre",
+            "type": "price"
+        },
+        {
+            "label": "Torkelonia",
+            "text": "1m Dernier (2 clients) -\n2m compa+dernier",
+            "type": "price"
+        },
+        {
+            "label": "Meno",
+            "text": "600kk Prudent (2 clients) -\n800kk duo -\n1.1 duo+prudent",
+            "type": "price"
+        },
+        {
+            "label": "Meno 2",
+            "text": "3.5m blitz -\n4m blitz+compa -\n4.5m blitz+special",
+            "type": "price"
+        },
+        {
+            "label": "Dientinea",
+            "text": "900kk duo -\n1.1m duo+dernier -\n1.3m duo+dernier+spe",
+            "type": "price"
+        },
+        {
+            "label": "Miss frizz",
+            "text": "700kk simple (2 clients) -\n800kk duo -\n1.3m duo+nomade -\n1.6m duo+nomade+spe",
+            "type": "price"
+        },
+        {
+            "label": "Bethel",
+            "text": "1.2m simple (2 clients) -\n1.4m mystique (2 clients) -\n2.4m compa+mystique",
+            "type": "price"
+        },
+        {
+            "label": "Dazahk",
+            "text": "1.2m Premier+liberte -\n1.6m premier+liberte+spe -\n3m liberte+spe+compa -\n3.5m premier+liberte+spe+compa",
+            "type": "price"
+        },
+        {
+            "label": "Solar 1",
+            "text": "1.3m versa (2 clients) -\n1.5m focus (2 clients) -\n2.3m versa+focus",
+            "type": "price"
+        },
+        {
+            "label": "Solar 2",
+            "text": "7m spe+versa+focus -\n7.5m spe+versa+focus+compa\n4m spe\n5m focus+spe -\n5m versa+spe",
+            "type": "price"
+        },
+        {
+            "label": "Solar duos",
+            "text": "2m duo -\n2.5m duo+versa -\n3m duo+focus -\n4.5m duo+versa+focus",
+            "type": "price"
+        },
+        {
+            "label": "Reina ladrones",
+            "text": "1m simple (2 clients) -\n1.2m compa (2 clients) -\n1.5m spe (2 clients) -\n2m trio",
+            "type": "price"
+        },
+        {
+            "label": "Reina ladrones 2",
+            "text": "2.5m trio+premier+spe -\n2.5m premier+spe+compa -\n3m trio+premier+collant -\n3.5m trio+collant+premier+spe",
+            "type": "price"
+        },
+        {
+            "label": "Servidumbre",
+            "text": "6m Special",
+            "type": "price"
+        }
+    ]
+}

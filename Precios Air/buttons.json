@@ -1,0 +1,119 @@
+{
+    "buttons": [
+        {
+            "label": "Passage",
+            "text": "/r PASSAGE~Ilyzaelle~ Solar ~Servitude~ CireMomore ~RDV~ Imagami ~Belladone~ Abyss ~Bethel~ Torke ~Dazak~ Missiz frizz and more dungs 200 ",
+            "type": "offer"
+        },
+        {
+            "label": "Pasaje",
+            "text": "/c PASAJE~Ilyzaelle~ Solar ~Servidumbre~ CireMomore ~RDL~ Imagami ~Belladona~ Abismos ~Bethel~ Torke ~Dazahk~ Mizz frizz y mÃ¡s dungs 200 ",
+            "type": "offer"
+        },
+        {
+            "label": "Ilyzaelle",
+            "text": "Ilyzaelle Special 1m - Liberte+Special 1.3m - Duo+Special 2m - Duo+Liberte+Special 2.2m - 3m Full (Save boss requis)",
+            "type": "price"
+        },
+        {
+            "label": "Dientinea",
+            "text": "Dantinea 2.2m Duo+Dernier+Statue+Special - 1.3m Duo+dernier+special - 700 Dernier (2 Clients)",
+            "type": "price"
+        },
+        {
+            "label": "Meno",
+            "text": "Meno Duo+Prudent 1.1m - Blitz 3.5m - Blitz+Spe 4.5 - Blitz+Spe+Compa 5m",
+            "type": "price"
+        },
+        {
+            "label": "Kutulu",
+            "text": "Koutoulou 2.8m Hardi (Save boss requis) - 1.2m Duo+prudent - 700 prudent (2 clients)",
+            "type": "price"
+        },
+        {
+            "label": "Torkelonia",
+            "text": "Torkelonia 1m Dernier (2 clients) - 2m Compa+Dernier - 2m Duo+Dernier (Roxx distance)",
+            "type": "price"
+        },
+        {
+            "label": "Belladona",
+            "text": "Belladone 3m Simple (2 Clients) - 5m Compa - 6m MainPropre - 7m Compa+MainPropre - 8m Duo (Roxx distance opti - 7m si save boss)",
+            "type": "price"
+        },
+        {
+            "label": "Dazahk",
+            "text": "Dazak 1.6m Premier+Liberte+Special - 3m Libert\u00e9+Special+Compa - 3.5 Premier+Libert\u00e9+Special+Compa",
+            "type": "price"
+        },
+        {
+            "label": "Tal kasha",
+            "text": "Tal kasha Duo 1.2m",
+            "type": "price"
+        },
+        {
+            "label": "Solar",
+            "text": "Solar~1.3m Versa/1.5m Focus/2m Duo/4.5m Duo+Versa+Focus/7m Spe+Versa+Focus/7.5m Spe+Versa+Focus+Compa",
+            "type": "price"
+        },
+        {
+            "label": "Bethel",
+            "text": "Bethel 1.2m Simple (2 Clients) - 1.4m Mystique (2 Clients) - 2.3m Duo (Dps cac opti) - 2.4m Compa+Mystique",
+            "type": "price"
+        },
+        {
+            "label": "Nidas",
+            "text": "2.2m Trio+Statue 2.4m Trio+Special - 2.6m Trio+Statue+Special - 3.4m Trio+Statue+Premier+Special",
+            "type": "price"
+        },
+        {
+            "label": "Cire",
+            "text": "Cire Momore 3m",
+            "type": "price"
+        },
+        {
+            "label": "RDV",
+            "text": "RDV 2m Trio - 2.5 Trio+Premier+Special - 3m Trio+Premier+Collant - 3.5m Trio+Spe+Collant+Premier",
+            "type": "price"
+        },
+        {
+            "label": "Kimbo",
+            "text": "Kimbo 800kk Duo+premier+statue",
+            "type": "price"
+        },
+        {
+            "label": "SALUT BG",
+            "text": "Salut bg, j'offre le service de passage pour ce donjon",
+            "type": "offer"
+        },
+        {
+            "label": "ALL",
+            "text": "Dientinea, Meno, Koutoulou, Ilyzaelle, Nidas, Solar, Roi imagami, Belladone, Torkelonia, Dazak, Kimbo, RDV et Tal kasha",
+            "type": "offer"
+        },
+        {
+            "label": "Imagami",
+            "text": "Roi 2m Simple - 3m MPropre - 3m Trio - 4m Trio+MPropre - 4m Trio+Spe",
+            "type": "price"
+        },
+        {
+            "label": "Imagami 2",
+            "text": "4.5m Trio+MainPropre+Special - 9m Hardi - 10m Trio+Hardi+MainPropre - 11.5 Full (Spe)",
+            "type": "price"
+        },
+        {
+            "label": "Servidumbre",
+            "text": "Servitude 6m Special",
+            "type": "price"
+        },
+        {
+            "label": "Solar 2",
+            "text": "2.1m Compa+Focus/2.2m Compa+Versa/2.3m Versa+Focus/2.5m Duo+Versa",
+            "type": "price"
+        },
+        {
+            "label": "Mizz frizz",
+            "text": "Mizz 700kk Simple (2 clients) - 800kk Duo - 1.3m Duo+Nomade - 1.6 Duo+Nomade+Special",
+            "type": "price"
+        }
+    ]
+}
